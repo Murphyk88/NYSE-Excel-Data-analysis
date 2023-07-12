@@ -1,0 +1,3 @@
+# NYSE-Excel-Data-analysis
+feat: Visualized NYSE data for comprehensive analysis and insights
+This project focuses on analyzing and visualizing data from the New York Stock Exchange (NYSE) using Microsoft Excel. By leveraging Excel's powerful data manipulation and visualization capabilities, this project provides comprehensive insights into stock market trends, company performance, and financial indicators. The visualizations highlight key metrics such as expenditure levels and research and development expenses, enabling investors, analysts, and finance professionals to make informed decisions based on historical and real-time market data.
